@@ -2,7 +2,7 @@ mkdir
 cd
 git init
 git add<file>
-git commt --m"log"
+git commt -m"log"
 git log
 git reset --hard HEAD^
 git reset --hard HEAD^^
@@ -10,3 +10,4 @@ git reset --hard HEAD~n
 git reset --hard"versionID"
 git status
 cat <file>
+this line can't be committed.
