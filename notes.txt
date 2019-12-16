@@ -14,5 +14,5 @@ this line can't be committed.
 -branch
 --command
 git checkout -- <file> "Attention! There is a space between -- and <file>"
-addwaa
-a
+git remote add origin link
+git clone link
