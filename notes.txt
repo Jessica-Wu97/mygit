@@ -15,3 +15,4 @@ this line can't be committed.
 --command
 git checkout -- <file> "Attention! There is a space between -- and <file>"
 addwaa
+a
